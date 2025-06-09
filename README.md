@@ -31,9 +31,10 @@ This project is helpful for:
 ## Progress Tracker
 
 - [ ] Chapter 1: A Tutorial Introduction
-  - [x] 1.1_Hello_world
-  - [x] 1.2_Variable_and_Arithmetic_Expression
-  - [x] 1.3_The_FOR_statement
+  - [x] [1.1_Hello_world]( https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/tree/main/Chapter_1/1.1_Hello_world
+)
+  - [x] [1.2_Variable_and_Arithmetic_Expression](https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/tree/main/Chapter_1/1.2_Variable_and_Arithmetic_Expression)
+  - [x] [1.3_The_FOR_statement](https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/tree/main/Chapter_1/1.3_The_FOR_statement)
 - [ ] Chapter 2: Types, Operators, and Expressions
 - [ ] Chapter 3: Control Flow
 - [ ] Chapter 4: Functions and Program Structure
@@ -58,7 +59,7 @@ If you encounter issues:
 **KinKout** - Personal learning journey through K&R C Programming
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 - Brian W. Kernighan and Dennis M. Ritchie for writing the definitive C programming book
