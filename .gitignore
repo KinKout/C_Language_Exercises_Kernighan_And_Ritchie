@@ -1,0 +1,31 @@
+# Cartella di configurazione e cache di Visual Studio
+.vs/
+
+# File di configurazione utente di Visual Studio (non vanno nel repo)
+*.vcxproj.user
+*.suo
+*.user
+*.ncb
+*.opensdf
+*.sdf
+*.ipch
+
+# File di build temporanei
+*.obj
+*.exe
+*.log
+*.pdb
+*.idb
+*.aps
+*.cachefile
+
+# Cartelle di output di build (modifica se cambi percorso)
+Debug/
+Release/
+
+# File temporanei
+*~
+*.tmp
+
+# File di backup
+*.bak
