@@ -6,6 +6,9 @@
 * Date: 17-dec-2024
 * Purpose: Fahrenheit to Celsius conversion table using symbolic constants (#define) to replace magic numbers
 * 
+* 
+* Note: These exercises are based on examples from "The C Programming Language" by Kernighan and Ritchie,
+*		but the code has been written independently as personal practice.
 */
 
 
