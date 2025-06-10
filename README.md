@@ -35,6 +35,12 @@ This project is helpful for:
 )
   - [x] [1.2_Variable_and_Arithmetic_Expression](https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/tree/main/Chapter_1/1.2_Variable_and_Arithmetic_Expression)
   - [x] [1.3_The_FOR_statement](https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/tree/main/Chapter_1/1.3_The_FOR_statement)
+  - [x] [1.4_Symbolic_Constants](https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/tree/main/Chapter_1/1.4_Symbolic_Constants)
+  - [ ] 1.5 Character Input and Output
+    - [ ] 1.5.1_File_Copying
+    - [ ] 1.5.2_Character_Counting
+    - [ ] 1.5.3_Line_Counting
+    - [ ] 1.5.4_Word_Counting
 - [ ] Chapter 2: Types, Operators, and Expressions
 - [ ] Chapter 3: Control Flow
 - [ ] Chapter 4: Functions and Program Structure
