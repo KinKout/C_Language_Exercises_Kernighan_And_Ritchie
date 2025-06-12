@@ -31,15 +31,14 @@ This project is helpful for:
 ## Progress Tracker
 
 - [ ] Chapter 1: A Tutorial Introduction
-  - [x] [1.1_Hello_world]( https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/tree/main/Chapter_1/1.1_Hello_world
-)
-  - [x] [1.2_Variable_and_Arithmetic_Expression](https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/tree/main/Chapter_1/1.2_Variable_and_Arithmetic_Expression)
-  - [x] [1.3_The_FOR_statement](https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/tree/main/Chapter_1/1.3_The_FOR_statement)
-  - [x] [1.4_Symbolic_Constants](https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/tree/main/Chapter_1/1.4_Symbolic_Constants)
+  - [x] [1.1_Hello_world](Chapter_1/1.1_Hello_world)
+  - [x] [1.2_Variable_and_Arithmetic_Expression](Chapter_1/1.2_Variable_and_Arithmetic_Expression)
+  - [x] [1.3_The_FOR_statement](Chapter_1/1.3_The_FOR_statement)
+  - [x] [1.4_Symbolic_Constants](Chapter_1/1.4_Symbolic_Constants)
   - [ ] 1.5 Character Input and Output
-    - [x] [1.5.1_File_Copying](https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/tree/main/Chapter_1/1.5.1_File_Copying)
-    - [x] [1.5.2_Character_Counting](https://github.com/KinKout/C_Language_Exercises_Kernighan_And_Ritchie/tree/main/Chapter_1/1.5.2_Character_Counting)
-    - [ ] 1.5.3_Line_Counting
+    - [x] [1.5.1_File_Copying](Chapter_1/1.5.1_File_Copying)
+    - [x] [1.5.2_Character_Counting](Chapter_1/1.5.2_Character_Counting)
+    - [x] [1.5.3_Line_Counting](Chapter_1/1.5.3_Line_Counting)
     - [ ] 1.5.4_Word_Counting
 - [ ] Chapter 2: Types, Operators, and Expressions
 - [ ] Chapter 3: Control Flow
