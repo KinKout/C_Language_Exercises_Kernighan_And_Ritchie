@@ -35,11 +35,11 @@ This project is helpful for:
   - [x] [1.2_Variable_and_Arithmetic_Expression](Chapter_1/1.2_Variable_and_Arithmetic_Expression)
   - [x] [1.3_The_FOR_statement](Chapter_1/1.3_The_FOR_statement)
   - [x] [1.4_Symbolic_Constants](Chapter_1/1.4_Symbolic_Constants)
-  - [ ] 1.5 Character Input and Output
+  - [x] 1.5 Character Input and Output
     - [x] [1.5.1_File_Copying](Chapter_1/1.5.1_File_Copying)
     - [x] [1.5.2_Character_Counting](Chapter_1/1.5.2_Character_Counting)
     - [x] [1.5.3_Line_Counting](Chapter_1/1.5.3_Line_Counting)
-    - [ ] 1.5.4_Word_Counting
+    - [x] [1.5.4_Word_Counting](Chapter_1/1.5.4_Word_Counting)
 - [ ] Chapter 2: Types, Operators, and Expressions
 - [ ] Chapter 3: Control Flow
 - [ ] Chapter 4: Functions and Program Structure
