@@ -40,6 +40,7 @@ This project is helpful for:
     - [x] [1.5.2_Character_Counting](Chapter_1/1.5.2_Character_Counting)
     - [x] [1.5.3_Line_Counting](Chapter_1/1.5.3_Line_Counting)
     - [x] [1.5.4_Word_Counting](Chapter_1/1.5.4_Word_Counting)
+    - [x] [1.6_Arrays](Chapter_1/1.6_Arrays)
 - [ ] Chapter 2: Types, Operators, and Expressions
 - [ ] Chapter 3: Control Flow
 - [ ] Chapter 4: Functions and Program Structure
